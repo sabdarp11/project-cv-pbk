@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Education</template>
     Informatics Engineering 
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">Islamic University Of Riau (2022-2026)</a>
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">UIR (2022-2026)</a>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -23,33 +23,25 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Project</template>
 
-    Once created a website as a substitute for UTS and UAS in<br>
-    <a href="#" target="_blank" rel="noopener">Web Programming</a>courses. and created a website-based project called 
-    <a href="#" target="_blank" rel="noopener">Lungo,</a>in the
-    <a href="#" target="_blank" rel="noopener">Software Engineering</a>courses
+    Desingning a project in a <br>
+    <a href="#" target="_blank" rel="noopener">Software Engineering</a>courses.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Expertise</template>
-    <a href="#" target="_blank" rel="noopener">Python</a>,
-    <a href="#" target="_blank" rel="noopener">Java</a>,
-    <a href="#" target="_blank" rel="noopener">SQL</a>
+    <template #heading>Tools</template>
+    <a href="#" target="_blank" rel="noopener">Canva</a>
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <CommunityIcon />
     </template>
-    <template #heading>Languages</template>
-
-    Indonesia
-    <a href="#" target="_blank" rel="noopener">100%</a><br>English
-    <a href="#" target="_blank" rel="noopener"
-      >50%</a
-    >.
+    <template #heading>About Me</template>
+    My name is Fadhlan Ardanel Razaq, usually called Adan, I come from Pekanbaru. I am the first child of my 2 siblings, my hobby is playing futsal. Apart from playing futsal, I also like photography
+    <a href="#" target="_blank" rel="noopener"></a>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -58,6 +50,6 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Contact</template>
 Email:
-    <a href="#" target="_blank" rel="noopener">sabdarp@gmail.com</a>
+    <a href="#" target="_blank" rel="noopener">FadhlanAR@gmail.com</a>
   </WelcomeItem>
 </template>

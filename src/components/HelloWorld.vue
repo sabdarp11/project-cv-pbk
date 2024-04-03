@@ -11,8 +11,8 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Beginner
-      <a href="#"target="_blank" rel="noopener">Back End Development</a> 
+      Masters
+      <a href="#"target="_blank" rel="noopener">UI/UX</a> 
     </h3>
   </div>
 </template>
